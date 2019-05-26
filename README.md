@@ -10,7 +10,7 @@
    
    * Deep Learning Based Image and Video Compression （maintained by Dong Liu） [[Paper Summary]](http://staff.ustc.edu.cn/~dongeliu/dlc.html)
    
-   * CVPR CLIC 2018 and CVPR CLIC 2019 （maintained by Lijun Zhao）[[Paper Summary](https://github.com/mdcnn/CVPR-CLIC-Challenge)
+   * CVPR CLIC 2018 and CVPR CLIC 2019 （maintained by Lijun Zhao）[[Paper Summary]](https://github.com/mdcnn/CVPR-CLIC-Challenge)
   
 # Papers for the review of image and video compression 
    
