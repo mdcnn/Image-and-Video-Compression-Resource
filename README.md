@@ -1,8 +1,6 @@
 # Latest Image and Video Compression/Coding Resource (Updating)
 
-
-
-**A list of image/video coding approaches and the summary of some available codes or projects, maintained by: [[Lijun Zhao]](https://mdcnn.github.io/). If your paper or summary about Image and Video Compression [[this topic]](https://www.researchgate.net/project/CNN-based-image-processing-and-compression?_sg=x0ou1PAOHzs6nyqwmZBlc8JlZG_fTOgxkbwkDcZh3iVzB5b-VHOm6RNam01PP-0_cRtytWcpozAsJnUqoIthxWGnlbTepazyBNJV) is not listed among them，please contact us（15112084@bjtu.edu.cn）.
+A list of image/video coding approaches and the summary of some available codes or projects, maintained by: [[Lijun Zhao]](https://mdcnn.github.io/). If your paper or summary about Image and Video Compression [[this topic]](https://www.researchgate.net/project/CNN-based-image-processing-and-compression?_sg=x0ou1PAOHzs6nyqwmZBlc8JlZG_fTOgxkbwkDcZh3iVzB5b-VHOm6RNam01PP-0_cRtytWcpozAsJnUqoIthxWGnlbTepazyBNJV) is not listed among them, please contact us(email: leejun@tyust.edu.cn).
 
 
 
