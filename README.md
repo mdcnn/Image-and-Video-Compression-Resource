@@ -1,6 +1,10 @@
 # Latest Image and Video Compression/Coding Resource (Updating)
 
+
+
 **A list of image/video coding approaches and the summary of some available codes or projects, maintained by: [[Lijun Zhao]](https://mdcnn.github.io/). If your paper or summary about Image and Video Compression [[this topic]](https://www.researchgate.net/project/CNN-based-image-processing-and-compression?_sg=x0ou1PAOHzs6nyqwmZBlc8JlZG_fTOgxkbwkDcZh3iVzB5b-VHOm6RNam01PP-0_cRtytWcpozAsJnUqoIthxWGnlbTepazyBNJV) is not listed among them，please contact us（15112084@bjtu.edu.cn）.
+
+
 
 ## Some available summary projects
 
@@ -10,24 +14,56 @@
    
    * CVPR CLIC 2018 and CVPR CLIC 2019 （maintained by [[Lijun Zhao]](https://mdcnn.github.io/)）[[Paper Summary]](https://github.com/mdcnn/CVPR-CLIC-Challenge)
 
+
+
 ## CVPR-CLIC2019-Challenge
 
 #### CVPR 2019 Workshop and Challenge on Learned Image Compression
- 
- * Efficient Learning Based Sub-pixel Image Compression
- 
- * Practical Stacked Non-local Attention Modules for Image Compression
- 
- * A Compression Objective and a Cycle Loss for Neural Image Compression
- 
- * Learned Prior Information for Image Compression
- 
- * Compressing Weight-updates for Image Artifacts Removal Neural Networks
- 
- * Learning-Based Image Compression using Convolutional Autoencoder and Wavelet Decomposition
- 
- * Learned Image Compression with Residual Coding
 
+* A Compression Objective and a Cycle Loss for Neural Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* A Better Color Space Conversion Based on Learned Variances For Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/html/)
+  
+* A Hybrid Approach Between Adversarial Generative Networks and Actor-Critic Policy Gradient for Low Rate High-Resolution Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+
+* Efficient Learning Based Sub-pixel Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Attention Based Image Compression Post-Processing Convolutional Neural Network [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+
+* End-to-end Optimized Image Compression with Attention Mechanism [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+
+* Practical Stacked Non-local Attention Modules for Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Compressing Weight-updates for Image Artifacts Removal Neural Networks [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Compressing Weight-updates for Image Artifacts Removal Neural Networks [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+  
+* Learned Prior Information for Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Deep Residual Learning for Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Decoder Side Color Image Quality Enhancement using a Wavelet Transform based 3-stage Convolutional Neural Network [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Extended End-to-End optimized Image Compression Method based on a Context-Adaptive Entropy Model [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Learning-Based Image Compression using Convolutional Autoencoder and Wavelet Decomposition [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Learned Image Compression with Residual Coding [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w50/html/)
+ 
+* Learning Patterns of Latent Residual for Improving Video Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* Learned Image Restoration for VVC Intra Coding [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+  
+* Multi-scale and Context-adaptive Entropy Model for Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+
+* Practical Stacked Non-local Attention Modules for Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* RDO-based Secondary Prediction Scheme for Image Compression [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+
+* Variational Autoencoder Based Image Compression with Pyramidal Features and Context Entropy Model [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
+* VimicroABCnet: An Image Coder Combining A Better Color Space Conversion Algorithm and A Post Enhancing Network [[PDF]](https://github.com/mdcnn/Image-and-Video-Compression-Resource/PDF/)
+ 
 ## CVPR-CLIC2018-Challenge
 
 #### CVPR 2018 Workshop and Challenge on Learned Image Compression [[Web]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w50/html/)
@@ -73,6 +109,8 @@
  * Wide-activated Deep Residual Networks based Restoration for BPG-compressed Images
   
  * YASO
+   
+   
    
 ## The summary of some available codes 
 
